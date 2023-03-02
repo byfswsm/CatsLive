@@ -1,0 +1,359 @@
+{
+    "apartment1": {
+        "name": "2156 Ridge Ave",
+        "address": "2156 Ridge Ave, Evanston, IL 60201",
+        "rent": "1320",
+        "dimensions": "250 sq feet",
+        "utilities": [
+            "gas",
+            "internet"
+        ],
+        "bedrooms": "2",
+        "bathrooms": "2",
+        "laundry": "true",
+        "parking": "true",
+        "value": "4",
+        "img": "https://images1.loopnet.com/i2/9koWUBOEpf9N2ITL10z1PtixXLq8aeqrNDSmq0G5qyE/112/image.jpg",
+        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2962.351789583295!2d-87.68862354916598!3d42.057078362071984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fdaa7b620d0ef%3A0x4f55e836533883d1!2s2156%20Ridge%20Ave%2C%20Evanston%2C%20IL%2060201!5e0!3m2!1sen!2sus!4v1669215405741!5m2!1sen!2sus"
+    },
+    "apartment2": {
+        "name": "Noyes",
+        "address": "2154 Sheridan Ave, Evanston, IL 60201",
+        "rent": "120",
+        "dimensions": "250 sq feet",
+        "utilities": [
+            "gas",
+            "internet"
+        ],
+        "bedrooms": "1",
+        "bathrooms": "0",
+        "laundry": "true",
+        "parking": "true",
+        "value": "4",
+        "img": "https://cdngeneral.rentcafe.com/dmslivecafe/3/77617/14%20FR%202%20%20resized.jpg?width=850&mode=pad&bgcolor=333333&quality=80",
+        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2962.337002518663!2d-87.67975574916595!3d42.057395362052034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fda9f70ca3387%3A0xa1a3b050c19fd2d!2s2154%20Sheridan%20Rd%2C%20Evanston%2C%20IL%2060201!5e0!3m2!1sen!2sus!4v1669215539413!5m2!1sen!2sus"
+    },
+    "apartment3": {
+        "name": "2156 Foster Apartments",
+        "address": "2156 Foster St, Evanston, IL 60201",
+        "rent": "1320",
+        "dimensions": "250 sq feet",
+        "utilities": [
+            "gas",
+            "internet"
+        ],
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "laundry": "false",
+        "parking": "true",
+        "value": "4",
+        "img": "https://d229qcohg01jma.cloudfront.net/MRED/09/687/935/1.jpg",
+        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2962.5142687279763!2d-87.70554874916606!3d42.05359506229067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fcff8c6026f6b%3A0xd5795a32787eb2a2!2s2156%20Foster%20St%2C%20Evanston%2C%20IL%2060201!5e0!3m2!1sen!2sus!4v1669215641052!5m2!1sen!2sus"
+    },
+    "apartment4": {
+        "name": "1234 Ridge Ave Apartments",
+        "address": "1234 Ridge Ave, Evanston, IL 60201",
+        "rent": "2500",
+        "dimensions": "1000 sq feet",
+        "utilities": [
+            "gas",
+            "internet",
+            "electric"
+        ],
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "laundry": "false",
+        "parking": "true",
+        "value": "4",
+        "img": "https://resources.atproperties.com/images/MRED/11/448/282/62ba2eb535cce/1.jpg",
+        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2963.1172111640158!2d-87.69094094916643!3d42.04066686310231!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd01a030cc89d%3A0x566aa786b401e620!2s1234%20Ridge%20Ave%2C%20Evanston%2C%20IL%2060202!5e0!3m2!1sen!2sus!4v1669215692282!5m2!1sen!2sus"
+    },
+    "apartment5": {
+        "name": "2247 Ridge Ave Apartments",
+        "address": "2247 Ridge Ave, Evanston, IL 60201",
+        "rent": "1000",
+        "dimensions": "900 sq feet",
+        "utilities": [
+            "gas",
+            "internet",
+            "electric"
+        ],
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "laundry": "false",
+        "parking": "true",
+        "value": "4",
+        "img": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lOFX5jqCCCAo_U-VQdRrFQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=259.30875&pitch=0&thumbfov=100",
+        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2962.264320678694!2d-87.68734584916592!3d42.05895346195422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fdaa6884bdf49%3A0x256e6f12f1c86038!2s2247%20Ridge%20Ave%2C%20Evanston%2C%20IL%2060201!5e0!3m2!1sen!2sus!4v1669215745041!5m2!1sen!2sus"
+    },
+    "apartment6": {
+        "name": "2300 Noyes Ct",
+        "address": "2300 Noyes Ct, Evanston, IL 60201",
+        "rent": "1100",
+        "dimensions": "900 sq feet",
+        "utilities": [
+            "gas",
+            "internet",
+            "electric"
+        ],
+        "bedrooms": "2",
+        "bathrooms": "1",
+        "laundry": "false",
+        "parking": "true",
+        "value": "4",
+        "img": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-ZuCcL1EOdLSr0tg68bKZw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=13.96033&pitch=0&thumbfov=100",
+        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2962.2275707571785!2d-87.68503864916589!3d42.05974126190476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fdaa6ab176583%3A0x2360f5a198917c57!2s2300%20Noyes%20Ct%2C%20Evanston%2C%20IL%2060201!5e0!3m2!1sen!2sus!4v1669215962753!5m2!1sen!2sus"
+    },
+    "apartment7": {
+        "name": "2157 Ridge Apartments",
+        "address": "2157 Ridge Ave, Evanston, IL 60201",
+        "rent": "1400",
+        "dimensions": "700 sq feet",
+        "utilities": [
+            "gas",
+            "internet",
+            "electric"
+        ],
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "laundry": "true",
+        "parking": "false",
+        "value": "4",
+        "img": "https://lh5.googleusercontent.com/p/AF1QipN9AX-amXTGivjJr-WR9aOZ0THqxGzMwcz4zzYv=w408-h271-k-no",
+        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17052.334373691887!2d-87.69892181187001!3d42.05299347529118!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fdbd5c6e85693%3A0xe9aeefd247b357b1!2s2157%20Ridge%20Apartments!5e0!3m2!1sen!2sus!4v1669216010316!5m2!1sen!2sus"
+    },
+    "apartment8": {
+        "name": "2151 Ridge Apartments",
+        "address": "2151 Ridge Ave, Evanston, IL 60201",
+        "rent": "1400",
+        "dimensions": "1000 sq feet",
+        "utilities": [
+            "gas",
+            "internet",
+            "electric"
+        ],
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "laundry": "false",
+        "parking": "false",
+        "value": "4",
+        "img": "https://lh5.googleusercontent.com/p/AF1QipPB01kYhReG-fy8RVbkrnxit4aryWPgwH_m0coI=w408-h272-k-no",
+        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d799.3964365786894!2d-87.68703163061255!3d42.05720303337772!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fdba85bb6a66d%3A0xbe00ad6773caefa5!2s2151%20Ridge%20Apartments!5e0!3m2!1sen!2sus!4v1669216073892!5m2!1sen!2sus"
+    },
+    "apartment9": {
+        "name": "CLK Evanston",
+        "address": "2129 Ridge Ave, Evanston, IL 60201",
+        "rent": "1200",
+        "dimensions": "1000 sq feet",
+        "utilities": [
+            "gas",
+            "internet",
+            "electric"
+        ],
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "laundry": "false",
+        "parking": "true",
+        "value": "4",
+        "img": "https://lh5.googleusercontent.com/p/AF1QipOqQZuFIHmS-bFxFxl4UdrFChZDuSNk0NDBF4ER=w487-h240-k-no",
+        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d494.0565048129137!2d-87.68707387984261!3d42.056506613938986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fdaa7c0d5999f%3A0x2a682125f41e70e0!2s2125%20Ridge%20Ave!5e0!3m2!1sen!2sus!4v1669216212698!5m2!1sen!2sus"
+    },
+    "apartment10": {
+        "name": "BJB Apartments",
+        "address": "2131 Ridge Ave, Evanston, IL 60201",
+        "rent": "1600",
+        "dimensions": "800 sq feet",
+        "utilities": [
+            "gas",
+            "internet",
+            "electric"
+        ],
+        "bedrooms": "3",
+        "bathrooms": "1",
+        "laundry": "false",
+        "parking": "true",
+        "value": "4",
+        "img": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DZYjlabs2odZkEr1nIH29A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=131.41486&pitch=0&thumbfov=100",
+        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5913.397994917408!2d-87.69118986121333!3d42.05613442113451!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fdaa7c6d3a505%3A0xbadeb6291df81f!2sBJB%20Apartments!5e0!3m2!1sen!2sus!4v1669216260498!5m2!1sen!2sus"
+    },
+    "apartment11": {
+        "name": "JJ Apartments",
+        "address": "817 Hamlin St, Evanston, IL 60201",
+        "rent": "1200",
+        "dimensions": "800 sq feet",
+        "utilities": [
+            "gas",
+            "internet",
+            "electric"
+        ],
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "laundry": "true",
+        "parking": "true",
+        "value": "4",
+        "img": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EJWVJYg8amhXjiVRL1XWSg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=15.818125&pitch=0&thumbfov=100",
+        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4499.443019901616!2d-87.68625306164483!3d42.05647598549684!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fdaa0acf95555%3A0x566b50feecf97e1a!2sJJ%20Apartments!5e0!3m2!1sen!2sus!4v1669216350288!5m2!1sen!2sus"
+    },
+    "apartment12": {
+        "name": "718-724 Simpson Apartments",
+        "address": "718 Simpson St, Evanston, IL 60201",
+        "rent": "1800",
+        "dimensions": "800 sq feet",
+        "utilities": [
+            "gas",
+            "internet",
+            "electric"
+        ],
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "laundry": "true",
+        "parking": "true",
+        "value": "4",
+        "img": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0m5KHoQ6Y1OWjQZBAaHa6Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=151.53845&pitch=0&thumbfov=100",
+        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5491.155078391472!2d-87.68733234533705!3d42.056309314761855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fdb59273e7239%3A0x3345610a17f6434d!2s718-724%20Simpson%20Apartments!5e0!3m2!1sen!2sus!4v1669216384413!5m2!1sen!2sus"
+    },
+    "apartment13": {
+        "name": "Sherman Apartments",
+        "address": "1940 Sherman Ave # 100, Evanston, IL 60201",
+        "rent": "1500",
+        "dimensions": "1100 sq feet",
+        "utilities": [
+            "gas",
+            "internet",
+            "electric"
+        ],
+        "bedrooms": "1",
+        "bathrooms": "1",
+        "laundry": "false",
+        "parking": "true",
+        "value": "4",
+        "img": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lOFX5jqCCCAo_U-VQdRrFQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=259.30875&pitch=0&thumbfov=100",
+        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8387.12274319271!2d-87.6909141355454!3d42.0565624080903!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd00a3e24ad33%3A0x3078b72ac10f9a57!2sSherman%20Apartments!5e0!3m2!1sen!2sus!4v1669216433173!5m2!1sen!2sus"
+    },
+    "apartment14": {
+        "name": "The Reserve",
+        "address": "1930 Ridge Ave, Evanston, IL 60201",
+        "rent": "1400",
+        "dimensions": "900 sq feet",
+        "utilities": [
+            "gas",
+            "internet",
+            "electric"
+        ],
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "laundry": "true",
+        "parking": "true",
+        "value": "4",
+        "img": "https://lh5.googleusercontent.com/p/AF1QipNqX6P3l1sKkywybeM1w9ANOlBLNmFAGlXobVP5=w408-h375-k-no",
+        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11221.417293083332!2d-87.69454273047508!3d42.05625373968111!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd00875f50c05%3A0xdd64f30647e0e65a!2sThe%20Reserve!5e0!3m2!1sen!2sus!4v1669216462358!5m2!1sen!2sus"
+    },
+    "apartment15": {
+        "name": "E2 Apartments",
+        "address": "1890 Maple Ave, Evanston, IL 60201",
+        "rent": "1400",
+        "dimensions": "900 sq feet",
+        "utilities": [
+            "gas",
+            "internet",
+            "electric"
+        ],
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "laundry": "true",
+        "parking": "true",
+        "value": "4",
+        "img": "https://lh5.googleusercontent.com/p/AF1QipOvVhL9rG5ptdsTe5tiuBT5MVy93jqmFwq70Pc3=w416-h240-k-no",
+        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11221.91314029467!2d-87.69454273047508!3d42.053447403176826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd009049cce0f%3A0x25791de2334ff8a9!2sE2%20Apartments!5e0!3m2!1sen!2sus!4v1669216499216!5m2!1sen!2sus"
+    },
+    "apartment16": {
+        "name": "1717 Evanston",
+        "address": "1717 Ridge Ave, Evanston, IL 60201",
+        "rent": "1400",
+        "dimensions": "900 sq feet",
+        "utilities": [
+            "gas",
+            "internet",
+            "electric"
+        ],
+        "bedrooms": "1",
+        "bathrooms": "3",
+        "laundry": "false",
+        "parking": "true",
+        "value": "4",
+        "img": "https://lh5.googleusercontent.com/p/AF1QipPN0DFB_imv7Taex5WGCgJEg-n8WC4ghEjixNzI=w426-h240-k-no",
+        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11221.91314029467!2d-87.69454273047508!3d42.053447403176826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd005eb90caf9%3A0x54158be801787f1a!2s1717%20Evanston!5e0!3m2!1sen!2sus!4v1669216537733!5m2!1sen!2sus"
+    },
+    "apartment17": {
+        "name": "Evanston Place Apartments",
+        "address": "1715 Chicago Ave, Evanston, IL 60201",
+        "rent": "1400",
+        "dimensions": "900 sq feet",
+        "utilities": [
+            "gas",
+            "internet",
+            "electric"
+        ],
+        "bedrooms": "1",
+        "bathrooms": "3",
+        "laundry": "true",
+        "parking": "true",
+        "value": "4",
+        "img": "https://lh5.googleusercontent.com/p/AF1QipPrLRYyeuquuoUpyKKtI0WU_C60QHAtmSlD0WRO=w408-h271-k-no",
+        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11221.91314029467!2d-87.69454273047508!3d42.053447403176826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd00cc5b3d2b7%3A0x5c1d799068661c38!2sEvanston%20Place%20Apartments!5e0!3m2!1sen!2sus!4v1669216598348!5m2!1sen!2sus"
+    },
+    "apartment18": {
+        "name": "1700 Hinman Ave. / 1740 Hinman Ave. Apartments",
+        "address": "1700 Hinman Ave, Evanston, IL 60201",
+        "rent": "1400",
+        "dimensions": "900 sq feet",
+        "utilities": [
+            "gas",
+            "internet",
+            "electric"
+        ],
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "laundry": "true",
+        "parking": "true",
+        "value": "4",
+        "img": "https://lh5.googleusercontent.com/p/AF1QipOvdOo4-M1baVx6LPve8Vbxcz7khEKx23snEz2L=w408-h271-k-no",
+        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2962.7859447874466!2d-87.68114588926952!3d42.047770226262024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd0732c3dae75%3A0x16e63b9826eddd70!2s1700%20Hinman%20Ave%2C%20Evanston%2C%20IL%2060201!5e0!3m2!1sen!2sus!4v1669216695250!5m2!1sen!2sus"
+    },
+    "apartment19": {
+        "name": "1009 Davis Apartments",
+        "address": "1009 Davis St, Evanston, IL 60201",
+        "rent": "1400",
+        "dimensions": "900 sq feet",
+        "utilities": [
+            "gas",
+            "internet",
+            "electric"
+        ],
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "laundry": "true",
+        "parking": "true",
+        "value": "4",
+        "img": "https://lh5.googleusercontent.com/p/AF1QipNjNRMaHKlc2e0rcPDvE4e9RCXLPK_vqVoA3O7u=w408-h271-k-no",
+        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11851.231707999654!2d-87.69559646693331!3d42.047298890717876!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd1a09ab0ea27%3A0x7de8b353148786fb!2s1009%20Davis%20Apartments!5e0!3m2!1sen!2sus!4v1669216787229!5m2!1sen!2sus"
+    },
+    "apartment20": {
+        "name": "Centrum Evanston",
+        "address": "1590 Elmwood Ave, Evanston, IL 60201",
+        "rent": "1400",
+        "dimensions": "900 sq feet",
+        "utilities": [
+            "gas",
+            "internet",
+            "electric"
+        ],
+        "bedrooms": "1",
+        "bathrooms": "3",
+        "laundry": "true",
+        "parking": "dalse",
+        "value": "4",
+        "img": "https://lh5.googleusercontent.com/p/AF1QipM59w2wfzYhAwGT48ndA2ZuoL1Aoa6QHLqMHIMI=w426-h240-k-no",
+        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2962.836927593326!2d-87.68669164916629!3d42.04667706272493!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd00e444e1e5f%3A0x74310a8c3e1ca9d4!2s1590%20Elmwood%20Ave%2C%20Evanston%2C%20IL%2060201!5e0!3m2!1sen!2sus!4v1669216825830!5m2!1sen!2sus"
+    }
+}
